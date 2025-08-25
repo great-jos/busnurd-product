@@ -21,6 +21,8 @@ Features include user authentication, product creation, listing, viewing, and ba
 
 * PHP 8.4 + Apache
 * Laravel 12
+* AlpineJs 3.4
+* Tailwind Css 3.1
 * SQLite (for simplicity, no external DB required)
 * Node.js 20 & Vite for frontend asset building
 * Docker & Docker Compose (optional for local or cloud deployment)
