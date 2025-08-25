@@ -1,6 +1,6 @@
 # Busnurd Product App
 
-A simple CRUD app built with **Laravel 10**, designed for temporary use and easy deployment.
+A simple CRUD app built with **Laravel 12**, designed for temporary use and easy deployment.
 Features include user authentication, product creation, listing, viewing, and basic CSRF-protected forms.
 
 ---
