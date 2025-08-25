@@ -12,7 +12,7 @@ Features include user authentication, product creation, listing, viewing, and ba
 * List all products & view individual product details
 * File uploads (product images)
 * Basic validation + CSRF protection
-* Eloquent models, migrations, and seeders
+* Eloquent models, migrations
 * Built with Laravel 10+, Blade, and Vite
 
 ---
