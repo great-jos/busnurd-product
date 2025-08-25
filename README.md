@@ -32,7 +32,7 @@ Features include user authentication, product creation, listing, viewing, and ba
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/<username>/busnurd-product.git
+git clone https://github.com/great-jos/busnurd-product.git
 cd busnurd-product
 ```
 
