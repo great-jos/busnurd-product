@@ -112,14 +112,11 @@ This app can be deployed to:
 * Vercel (for frontend static files only)
 * Any Docker-compatible hosting
 
-**Note:** SQLite is fine for temporary apps or demos. For production, consider MySQL or PostgreSQL for persistence.
-
 ---
 
 ## Notes / Future Improvements
 
 * Store images on S3 or other cloud storage
-* Add edit and delete product functionality
 * Add roles and permissions (admin vs user)
 * Add tests (PHPUnit + Dusk)
 * Add pagination for products
